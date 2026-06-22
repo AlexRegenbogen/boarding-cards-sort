@@ -1,0 +1,15 @@
+{
+    "name": "AlexRegenbogen/boarding-cards-sort",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Regenbogen",
+            "email": "github@relexed.com"
+        }
+    ],
+    "require": {}
+}
